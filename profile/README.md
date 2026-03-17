@@ -8,7 +8,7 @@ Esta es la organización en Github del grupo 7 para el curso **MINE4201 – Sist
 
 | Repositorio | Descripción | Lenguaje de programación |
 |---|---|---|
-| [Taller-1-Notebooks](https://github.com/MINE4201-202601-E07/Taller-1-Notebooks) | Cuadernos de Jupyter en los que se hizo un análisis exploratorio de los datos y se entrenaron los modelos del sistema de recomendación | Jupyter Notebook |
+| [Taller-1-Notebooks](https://github.com/MINE4201-202601-E07/Taller-1-Notebooks) | Cuadernos de Jupyter en los que se hizo un análisis exploratorio de los datos y se entrenaron los modelos del sistema de recomendación. **El trabajo de cada integrante está en una rama con su nombre.** | Jupyter Notebook |
 | [Taller-1-Back](https://github.com/MINE4201-202601-E07/Taller-1-Back) | Python/Flask REST API backend que contiene la lógica, los modelos de recomendación, maneja a los usuarios, y guarda en una base de datos SQLite | Python |
 | [Taller-1-Front](https://github.com/MINE4201-202601-E07/Taller-1-Front) | TypeScript/React (Vite) frontend para encontrar películas, darles una calificación, y recibir recomendaciones personalizadas | TypeScript |
 
